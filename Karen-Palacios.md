@@ -5,13 +5,13 @@
 
 
 ## Datos de contacto
-### Ciudad de México
+### Ciudad de México, México
 ### Teléfono: 55 4929 9905
 ### Correo: kaben.palacios.m@comunidad.unam.mx 
 
 
 ## Formación 
-* ### Desarrollo web, JA Americas. 2023-2024 
+* ### Desarrollo web, JA Americas, Mujer digital. 2023-2024 
 * ### Licenciatura en Antropología Social, UNAM. 2018-2022
 
 
