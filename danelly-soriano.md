@@ -24,7 +24,7 @@ I have **5** certificates in Web Development by Udemy:
 5. Git y GitHub Completo Desde Cero.
 
 ## Programing Languages
-For now, I'am learning about **Java** and **JavaScript**.
+For now, I'am learning about **Java** and **Javascript**.
 
 ## Web Development Tools
 * Figma
