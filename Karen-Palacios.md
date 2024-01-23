@@ -16,8 +16,14 @@
 
 
 ## Experiencia profesional
-* ### Asistente editorial (2023-Actualidad)
-* ### Asistente de investigación (2020-2022)
+* ### Asistente editorial, Revista Nueva Antropología (2023-Actualidad)
+* ### Asistente de investigación, El Colegio de México (2020-2022)
+* ### Apoyo a la investigación documental, Biblioteca de investigación Juan de la Córdova, 2020
+
+## Cursos
+* ### Derecho cultural, CENART 2023
+* ### ABC para la creación de proyectos culturales, CENART, 2023 
+* ### Arte contemporáneo en América Latina, CENART, 2022
 
 ## Redes sociales
 
