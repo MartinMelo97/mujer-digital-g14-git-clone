@@ -29,6 +29,7 @@ For now, I'am learning about **Java** and **Javascript**.
 ## Web Development Tools
 * Figma
 * GitHub
+* Visual Studio Code
 
 ## Languages
 * Spanish (native language)
